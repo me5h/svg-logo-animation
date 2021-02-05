@@ -1,2 +1,4 @@
-# svg-logo-animation
-Animate svg logos with javascript
+![logo](ins-logo.svg)
+# svg logo animation
+Animate svg logo's with javascript
+
